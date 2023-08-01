@@ -7,3 +7,4 @@
 |3|NerfDiff: Single-image View Synthesis with NeRF-guided Distillation from 3D-aware Diffusion|https://arxiv.org/abs/2302.10109|
 |4|Semantic-SAM: Segment and Recognize Anything at Any Granularity|https://arxiv.org/pdf/2307.04767v1.pdf|
 |5|Zeus: Understanding and Optimizing GPU Energy Consumption of DNN Training|https://arxiv.org/abs/2208.06102|
+[Development of Fake News Model using Machine Learning through Natural Language Processing.pptx](https://github.com/SUSC-KR/Read-the-papers/files/12228709/Development.of.Fake.News.Model.using.Machine.Learning.through.Natural.Language.Processing.pptx)
